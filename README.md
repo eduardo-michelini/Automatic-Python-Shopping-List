@@ -1,4 +1,3 @@
-English:
 # Automatic-Python-Shopping-List
 Simple Python Shopping List A practical and easy-to-use shopping list made with Python. You can add, remove, and search for specific items, or view your full list at any time. Enjoy!
 
@@ -10,7 +9,6 @@ Explanation:
 5) View & Search: Shows the full list or finds a specific item.
 6) Exit: Breaks the loop and shows your final list.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Português:
 # Lista-de-Compras-Automatica-Python
 Uma lista de compras simples e prática feita em Python. Você pode adicionar, remover e pesquisar itens específicos, ou visualizar sua lista completa a qualquer momento. Aproveite!
 
