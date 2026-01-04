@@ -15,12 +15,12 @@ Português:
 Uma lista de compras simples e prática feita em Python. Você pode adicionar, remover e pesquisar itens específicos, ou visualizar sua lista completa a qualquer momento. Aproveite!
 
 Explicação:
-1)Configuração: Pede o seu nome e cria uma lista vazia.
-2)Loop: Roda um menu (1-5) que mantém o programa aberto.
-3)Adicionar: Salva os itens na lista.
-4)Remover: Verifica se o item existe antes de deletá-lo.
-5)Ver & Buscar: Mostra a lista completa ou encontra um item específico.
-6)Sair: Encerra o programa e mostra sua lista final.
+1) Configuração: Pede o seu nome e cria uma lista vazia.
+2) Loop: Roda um menu (1-5) que mantém o programa aberto.
+3) Adicionar: Salva os itens na lista.
+4) Remover: Verifica se o item existe antes de deletá-lo.
+5) Ver & Buscar: Mostra a lista completa ou encontra um item específico.
+6) Sair: Encerra o programa e mostra sua lista final.
 
 
 
